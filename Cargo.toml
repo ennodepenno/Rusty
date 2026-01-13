@@ -1,4 +1,4 @@
 [workspace]
-members = ["my-file-reader"]
+members = ["filesize-formatter","my-file-reader"]
 resolver = "2"
 
